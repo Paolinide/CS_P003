@@ -1,0 +1,11 @@
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/obj/Debug/netcoreapp2.2/CS_P003.csprojAssemblyReference.cache
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/obj/Debug/netcoreapp2.2/CS_P003.csproj.CoreCompileInputs.cache
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/obj/Debug/netcoreapp2.2/CS_P003.AssemblyInfoInputs.cache
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/obj/Debug/netcoreapp2.2/CS_P003.AssemblyInfo.cs
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/bin/Debug/netcoreapp2.2/CS_P003.deps.json
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/bin/Debug/netcoreapp2.2/CS_P003.runtimeconfig.json
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/bin/Debug/netcoreapp2.2/CS_P003.runtimeconfig.dev.json
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/bin/Debug/netcoreapp2.2/CS_P003.dll
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/bin/Debug/netcoreapp2.2/CS_P003.pdb
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/obj/Debug/netcoreapp2.2/CS_P003.dll
+/Users/paolinide_vez/Documents/Scuola ITS/CYBE/C# prove/CS_P003/obj/Debug/netcoreapp2.2/CS_P003.pdb
